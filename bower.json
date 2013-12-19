@@ -1,0 +1,11 @@
+{
+  "name": "accounting",
+  "version": "0.3.2",
+  "main": "accounting.js",
+  "dependencies": {
+  },
+  "ignore": [
+    "package.json",
+    "README.md"
+  ]
+}
